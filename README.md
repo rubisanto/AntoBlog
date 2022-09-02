@@ -1,2 +1,7 @@
 # AntoBlog
- Django
+
+Django
+
+# pour lancer le server
+
+python manage.py runserver
